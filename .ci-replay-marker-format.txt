@@ -1,0 +1,3 @@
+# CI replay marker for format/cargo-fmt
+feature_branch: replay-7e49b65b
+workflow: .github/workflows/ci.yml
